@@ -9,8 +9,8 @@
 
     <color name="color01">#ff9a9e</color>
     <color name="color02">#fad0c4</color>
-    <color name="color11">#ffecd2</color>
-    <color name="color12">#fcb69f</color>
+    <color name="color12">#ffecd2</color>
+    <color name="color11">#fcb69f</color>
     <color name="color21">#a1c4fd</color>
     <color name="color22">#c2e9fb</color>
     <color name="color31">#13547a</color>
@@ -19,12 +19,12 @@
     <color name="color42">#ff7eb3</color>
     <color name="color51">#93a5cf</color>
     <color name="color52">#e4efe9</color>
-    <color name="color61">#96deda</color>
-    <color name="color62">#50c9c3</color>
+    <color name="color62">#96deda</color>
+    <color name="color61">#50c9c3</color>
     <color name="color71">#1e3c72</color>
-    <color name="color72">#2a5298</color>
-    <color name="color81">#eacda3</color>
-    <color name="color82">#d6ae7b</color>
+    <color name="color72">#5c75ba</color>
+    <color name="color82">#eacda3</color>
+    <color name="color81">#d6ae7b</color>
     <color name="color91">#56ab2f</color>
     <color name="color92">#a8e063</color>
 </resources>

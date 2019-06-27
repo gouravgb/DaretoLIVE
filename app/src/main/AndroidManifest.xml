@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.daretolive.daretolive">
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -10,8 +11,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
-        <activity android:name=".Affirmation"></activity>
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".activity.Books"
+            android:label="@string/title_activity_books"
+            android:theme="@style/NoActionBar"></activity>
+        <activity
+            android:name=".activity.Books"
+            android:label="@string/title_activity_books"
+            android:theme="@style/NoActionBar" />
+        <activity android:name=".activity.Affirmation" />
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

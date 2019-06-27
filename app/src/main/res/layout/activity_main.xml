@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".activity.MainActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -49,6 +49,7 @@
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/books_layout"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/shade1"
@@ -61,7 +62,7 @@
                     android:layout_height="match_parent"
                     android:layout_centerVertical="true"
                     android:paddingLeft="50dp"
-                    android:text="Hello World!"
+                    android:text="Books"
                     android:textAlignment="textStart"
                     android:textSize="25dp" />
 
